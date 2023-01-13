@@ -34,3 +34,5 @@
 ================================================
 <br>
 Kapcsolat Teszt - Csanád
+<br>
+Igen - Gabor
