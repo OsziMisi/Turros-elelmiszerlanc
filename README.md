@@ -9,3 +9,27 @@
 - OM -> topologia,
 - JG -> PPT,
 - RCs ->topologia tervezese,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+================================================
+Kapcsolat Teszt - Csanád
