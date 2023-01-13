@@ -1,6 +1,6 @@
 # Turros-elelmiszerlanc
 
-- Csapattagok:
+* Csapattagok*
 - Oroszlan M.
 - Juhasz G.
 - Riazancev Cs.
