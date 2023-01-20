@@ -1,0 +1,23 @@
+ena
+clock set dátum
+conf t
+host "név"
+security passwords min-length szám
+login block-for idő attempts lehetőségek within belül
+ena sec class123
+no ip domain-lookup
+line con 0
+pass cisco123
+login
+logg syn
+exec 5
+exit
+line vty 0 15
+pass cisco123
+login
+exec 5
+exit
+ser pass
+banner motd szöveg
+exit
+copy running-config startup-config
