@@ -31,6 +31,21 @@
 |       |       switch.png
 |       |       wireless_router.png
 ```
+### IP-cím
+
+- 1) IP cím: 199.40.0.0/27
+- 32-sével megy.
+- pl.: 199.40.0.0-199.40.0.31 (0.1 elso kioszthato ip cím és 0.31 az utolsó)
+      199.40.0.32-199.40.0.63
+      199.40.0.64-199.40.0.95
+      199.40.0.96-199.40.0.127
+      199.40.0.128-199.40.0.159
+      199.40.0.160-199.40.0.191
+      199.40.0.192-199.40.0.223
+      199.40.0.224-199.40.0.255
+- 2) IP cím: 160.160.0.0
+-      
+
 ### Dokumentalas
 ## 01.13
 - Mihály elkészítette a Github-ot ezzel elkezdve a 3 fős projektet hivatalosan.
@@ -45,6 +60,10 @@
   - PPT updatelt verzio is felkerult.
 ## 01.20
   - Config fájl feltöltésre került a github-ra.
+  - Updatelt PPT felkerult.
+## 01.25
+  - IP címek kiszámításra kerültek.
+  - PPT-be is bekerültek.
 
 ================================================
 <br>
