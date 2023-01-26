@@ -31,6 +31,27 @@
 |       |       switch.png
 |       |       wireless_router.png
 ```
+### IP-cím
+
+- 1) IP cím: 199.40.0.0/27
+-  199.40.0.0-199.40.0.31
+-  199.40.0.32-199.40.0.63
+-  199.40.0.64-199.40.0.95
+-  199.40.0.96-199.40.0.127
+-  199.40.0.128-199.40.0.159
+-  199.40.0.160-199.40.0.191
+-  199.40.0.192-199.40.0.223
+-  199.40.0.224-199.40.0.255
+- 2) IP cím: 160.160.0.0
+-  160.160.0.0-160.160.3.255
+-  160.160.4.0-160.160.7.255
+-  160.160.8.0-160.160.11.255
+-  160.160.12.0-160.160.15.255
+-  160.160.16.0-160.160.19.255
+-  160.160.20.0-160.160.23.255
+-  160.160.24.0-160.160.27.255
+-  160.160.28.0-160.160.31.255
+
 ### Dokumentalas
 ## 01.13
 - Mihály elkészítette a Github-ot ezzel elkezdve a 3 fős projektet hivatalosan.
@@ -45,7 +66,13 @@
   - PPT updatelt verzio is felkerult.
 ## 01.20
   - Config fájl feltöltésre került a github-ra.
-
+  - Updatelt PPT felkerult.
+## 01.25
+  - IP címek kiszámításra kerültek.
+  - PPT-be is bekerültek,de feltöltve nem lett.
+## 01.26
+  - A topológia további simításra került sor.
+  - PPT továbbí simítások.
 ================================================
 <br>
 Kapcsolat Teszt - Csanád
