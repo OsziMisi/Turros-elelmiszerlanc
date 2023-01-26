@@ -1,9 +1,9 @@
 ena
-clock set dátum
+clock set 14:00:00 25 jan 2022
 conf t
-host "név"
-security passwords min-length szám
-login block-for idő attempts lehetőségek within belül
+host R1
+security passwords min-length 8
+login block-for 120 attempts 3 within 60
 ena sec class123
 no ip domain-lookup
 line con 0
@@ -18,6 +18,6 @@ login
 exec 5
 exit
 ser pass
-banner motd szöveg
-exit
+banner motd "Nem nyulkalsz mert eltorom a kis ujjaidat"
+end
 copy running-config startup-config
