@@ -7,7 +7,7 @@
 
 *Feladatok*
 - OM -> topologia,
-- JG -> PPT,README.md kezelése
+- JG -> PPT,README.md kezelése,IP Cím kiszámítása.
 - RCs ->topologia tervezese,
 <img src="https://raw.githubusercontent.com/OsziMisi/Turros-elelmiszerlanc/main/kesz_topologia_vazlat_megvagott.jpg" width="500px">
 <i>Vázlat - Nem reprezentálja a kész produktot!</i>
@@ -73,7 +73,9 @@
 ## 01.26
   - A topológia további simításra került sor.
   - PPT továbbí simítások.
-================================================
+## 02.01
+  - A topológia további konfigurálása.
+  - PPT utolsó simítások és feltöltése.
 <br>
 Kapcsolat Teszt - Csanád
 <br>
